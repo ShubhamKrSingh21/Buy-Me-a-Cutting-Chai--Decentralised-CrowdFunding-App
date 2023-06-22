@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the Replit Platform.
 
-(https://buymecuttingchai.aayush-kumark11.repl.co/)
+(https://frolicking-hotteok-afd2de.netlify.app/)
